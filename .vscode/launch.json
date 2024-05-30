@@ -1,0 +1,6 @@
+{
+	"configurations": [
+		{"name":"Debug iOS Hermes","request":"launch","type":"reactnativedirect","cwd":"${workspaceFolder}","platform":"ios"},
+	{"name":"Attach to Hermes application","request":"attach","type":"reactnativedirect","cwd":"${workspaceFolder}"}
+	]
+}
